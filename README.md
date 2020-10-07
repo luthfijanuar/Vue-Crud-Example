@@ -1,3 +1,6 @@
+## Project Example
+[![Screenshot-from-2020-10-07-16-40-01.png](https://i.postimg.cc/wjB9K22H/Screenshot-from-2020-10-07-16-40-01.png)](https://postimg.cc/xcBwMKBF)
+
 ### How cart works
 
 - Products can be added to the cart if they have an item available on stock.
